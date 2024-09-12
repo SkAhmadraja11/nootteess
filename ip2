@@ -1,0 +1,12 @@
+Public vs. private
+	- RFC1918
+	- Network address translation (NAT)
+	- Port address translation (PAT)
+* IPv4 vs. IPv6
+	- Automatic Private IP Addressing (APIPA)
+	- Extended unique identifier (EUI-64)
+	- Multicast
+	- Unicast
+	- Anycast
+	- Broadcast
+	- Link local
