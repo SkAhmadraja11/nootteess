@@ -1,0 +1,44 @@
+today session is about ip classes
+Class A: The first octet of the address is between 0 and 127
+Class B: The first octet of the address is between 128 and 191
+Class C: The first octet of the address is between 192 and 223
+Class D: The first octet of the address is between 224 and 239
+Class E: The first octet of the address is between 240 and 255
+
+
+
+IPv4 addresses are divided into 5 classes (A, B, C, D, E). Each class is designed to address different sized networks
+
+
+
+
+Class A- 1.0.0.1 - 126.255.255.254	
+
+Class B- 128.1.0.1 - 191.255.255.254
+
+Class c - 192.0.1.1 - 223.255.254.254
+
+Class D,E-Reserved for experimental purposes and future use.
+
+
+
+IPv4 subnetting
+	+ Classless (variable-length subnet mask)
+	+ Classful
+		- A
+		- B
+		- C
+		- D
+		- E
+		- Classless Inter-Domain Routing (CIDR) notation
+
+
+
+
+
+
+
+		there are 2^32 bit addresses which is equal to 4.47billion 
+
+
+
